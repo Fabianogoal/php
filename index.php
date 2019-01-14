@@ -1,6 +1,6 @@
 <?php
 
-  echo "hello word"
+  echo "Olá mundo";
 
 
 ?>
